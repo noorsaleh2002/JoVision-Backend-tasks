@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-
+using System;
 
 namespace Task45.Controllers
 {
@@ -15,7 +15,23 @@ namespace Task45.Controllers
                 return $"Hello {name}, I can’t calculate your age without knowing your birthdate!";
             }
 
-            int age = DateTime.Now.Year - years.Value;
+         
+            DateTime birthDate;
+            try
+            {
+                birthDate = new DateTime(years.Value, months.Value, days.Value);
+            }
+            catch (Exception)
+            {
+                return $"Invalid birthdate provided!";
+            }
+
+           
+            int age = DateTime.Now.Year - birthDate.Year;
+            if (DateTime.Now < birthDate.AddYears(age))
+            {
+                age--;
+            }
 
             return $"Hello {name}, your age is {age}";
         }
