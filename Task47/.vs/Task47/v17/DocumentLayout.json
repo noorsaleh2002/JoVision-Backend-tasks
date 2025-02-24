@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\JoVision-Backend-tasks\\Task47\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{969B9F23-B304-4504-9B84-8DA3FDE4540A}|Task47\\Task47.csproj|c:\\users\\asus\\desktop\\jovision-backend-tasks\\task47\\task47\\controllers\\deletecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969B9F23-B304-4504-9B84-8DA3FDE4540A}|Task47\\Task47.csproj|solutionrelative:task47\\controllers\\deletecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969B9F23-B304-4504-9B84-8DA3FDE4540A}|Task47\\Task47.csproj|c:\\users\\asus\\desktop\\jovision-backend-tasks\\task47\\task47\\controllers\\createcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969B9F23-B304-4504-9B84-8DA3FDE4540A}|Task47\\Task47.csproj|solutionrelative:task47\\controllers\\createcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969B9F23-B304-4504-9B84-8DA3FDE4540A}|Task47\\Task47.csproj|c:\\users\\asus\\desktop\\jovision-backend-tasks\\task47\\task47\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969B9F23-B304-4504-9B84-8DA3FDE4540A}|Task47\\Task47.csproj|solutionrelative:task47\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeleteController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\JoVision-Backend-tasks\\Task47\\Task47\\Controllers\\DeleteController.cs",
+              "RelativeDocumentMoniker": "Task47\\Controllers\\DeleteController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\JoVision-Backend-tasks\\Task47\\Task47\\Controllers\\DeleteController.cs",
+              "RelativeToolTip": "Task47\\Controllers\\DeleteController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:44:01.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\JoVision-Backend-tasks\\Task47\\Task47\\Controllers\\CreateController.cs",
+              "RelativeDocumentMoniker": "Task47\\Controllers\\CreateController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\JoVision-Backend-tasks\\Task47\\Task47\\Controllers\\CreateController.cs",
+              "RelativeToolTip": "Task47\\Controllers\\CreateController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:18:04.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\JoVision-Backend-tasks\\Task47\\Task47\\Program.cs",
+              "RelativeDocumentMoniker": "Task47\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\JoVision-Backend-tasks\\Task47\\Task47\\Program.cs",
+              "RelativeToolTip": "Task47\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:47:09.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
