@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\JoVision-Backend-tasks\\Task46\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38D6C332-768B-48FB-8F0D-526C4E58F125}|Task46\\Task46.csproj|c:\\users\\asus\\desktop\\jovision-backend-tasks\\task46\\task46\\controllers\\birthdatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D6C332-768B-48FB-8F0D-526C4E58F125}|Task46\\Task46.csproj|solutionrelative:task46\\controllers\\birthdatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D6C332-768B-48FB-8F0D-526C4E58F125}|Task46\\Task46.csproj|c:\\users\\asus\\desktop\\jovision-backend-tasks\\task46\\task46\\controllers\\models\\birthdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D6C332-768B-48FB-8F0D-526C4E58F125}|Task46\\Task46.csproj|solutionrelative:task46\\controllers\\models\\birthdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D6C332-768B-48FB-8F0D-526C4E58F125}|Task46\\Task46.csproj|c:\\users\\asus\\desktop\\jovision-backend-tasks\\task46\\task46\\controllers\\greetercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D6C332-768B-48FB-8F0D-526C4E58F125}|Task46\\Task46.csproj|solutionrelative:task46\\controllers\\greetercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D6C332-768B-48FB-8F0D-526C4E58F125}|Task46\\Task46.csproj|c:\\users\\asus\\desktop\\jovision-backend-tasks\\task46\\task46\\controllers\\models\\greetingrequset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D6C332-768B-48FB-8F0D-526C4E58F125}|Task46\\Task46.csproj|solutionrelative:task46\\controllers\\models\\greetingrequset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BirthDateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\JoVision-Backend-tasks\\Task46\\Task46\\Controllers\\Models\\BirthDateRequest.cs",
+              "RelativeDocumentMoniker": "Task46\\Controllers\\Models\\BirthDateRequest.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\JoVision-Backend-tasks\\Task46\\Task46\\Controllers\\Models\\BirthDateRequest.cs",
+              "RelativeToolTip": "Task46\\Controllers\\Models\\BirthDateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:35:33.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BirthDateController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\JoVision-Backend-tasks\\Task46\\Task46\\Controllers\\BirthDateController.cs",
+              "RelativeDocumentMoniker": "Task46\\Controllers\\BirthDateController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\JoVision-Backend-tasks\\Task46\\Task46\\Controllers\\BirthDateController.cs",
+              "RelativeToolTip": "Task46\\Controllers\\BirthDateController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:33:31.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GreetingRequset.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\JoVision-Backend-tasks\\Task46\\Task46\\Controllers\\Models\\GreetingRequset.cs",
+              "RelativeDocumentMoniker": "Task46\\Controllers\\Models\\GreetingRequset.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\JoVision-Backend-tasks\\Task46\\Task46\\Controllers\\Models\\GreetingRequset.cs",
+              "RelativeToolTip": "Task46\\Controllers\\Models\\GreetingRequset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:26:58.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GreeterController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\JoVision-Backend-tasks\\Task46\\Task46\\Controllers\\GreeterController.cs",
+              "RelativeDocumentMoniker": "Task46\\Controllers\\GreeterController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\JoVision-Backend-tasks\\Task46\\Task46\\Controllers\\GreeterController.cs",
+              "RelativeToolTip": "Task46\\Controllers\\GreeterController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:15:18.218Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
